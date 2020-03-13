@@ -32,6 +32,7 @@ A solução consistirá em criar uma aplicação frontend usando ReactJS.
 - O sistema deve validar todas as entradas no cadastro de celulares com mensagens de erro de acordo com a validação dos campos acima.
 - Será avaliado a capacidade de lógica dos dados e fidelidade ao protótipo.
 - Responsividade é um adicional.
+- **Para toda requisição é necessário enviar via Header o seu CPF { cpf : seu cpf }**
 
 ### Protótipo
 
